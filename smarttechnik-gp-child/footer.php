@@ -1,6 +1,6 @@
 <?php
 /**
- * Theme footer template.
+ * Theme footer template.aaa
  *
  * @package smarttechnik-gp-child
  */
